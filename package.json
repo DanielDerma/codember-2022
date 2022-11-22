@@ -5,7 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon app/challenge02.js"
+    "challenge01": "nodemon app/challenge01.js",
+    "challenge02": "nodemon app/challenge02.js",
+    "challenge03": "nodemon app/challenge03.js"
   },
   "keywords": [],
   "author": "",
