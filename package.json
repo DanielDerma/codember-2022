@@ -7,7 +7,8 @@
   "scripts": {
     "challenge01": "nodemon app/challenge01.js",
     "challenge02": "nodemon app/challenge02.js",
-    "challenge03": "nodemon app/challenge03.js"
+    "challenge03": "nodemon app/challenge03.js",
+    "challenge04": "nodemon app/challenge04.js"
   },
   "keywords": [],
   "author": "",
